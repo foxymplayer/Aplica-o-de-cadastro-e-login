@@ -15,7 +15,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
-<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -156,28 +156,29 @@
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="mb-auto">
     <div>
-      <h3 class="float-md-start mb-0">Cover</h3>
+      <h3 class="float-md-start mb-0">Inicio</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Home</a>
-        <a class="nav-link fw-bold py-1 px-0" href="#">Features</a>
-        <a class="nav-link fw-bold py-1 px-0" href="#">Contact</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Inicio</a>
+        <a class="nav-link fw-bold py-1 px-0" href="#">Cadastre-se</a>
+        <a class="nav-link fw-bold py-1 px-0" href="#">Login</a>
       </nav>
     </div>
   </header>
 
   <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+    <h1>Seja Bem-vind@.</h1>
+    <p class="lead">Essa página é a principal de um pequeno projeto criado para o ensino de acesso a base de dados ultilizando PHP como linguagem de back-end. Acesse o repositorio do projeto no.</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
+      <a href="https://github.com/foxymplayer" class="btn btn-lg btn-light fw-bold border-white bg-white">Git Hub</a>
     </p>
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Projeto criado por <a href="https://www.linkedin.com/in/gustavo-henrique-ba708b2a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">@GustavoH</a>.</p>
   </footer>
 </div>
-<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="bootstrap.bundle.min.js"></script>
 
     </body>
 </html>
