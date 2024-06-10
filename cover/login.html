@@ -15,28 +15,29 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
-<link href="bootstrap.min.css" rel="stylesheet">
+<link href="../cover/login.css" rel="stylesheet">
    
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="mb-auto">
     <div>
-      <h3 class="float-md-start mb-0">Login</h3>
+      <h3 class="float-md-start mb-0" id="logine">Login</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Inicio</a>
-        <a class="nav-link fw-bold py-1 px-0" href="#">Cadastre-se</a>
-        <a class="nav-link fw-bold py-1 px-0" href="login.html">Login</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php" id="ini">Inicio</a>
+        <a class="nav-link fw-bold py-1 px-0" href="#" id="cad">Cadastre-se</a>
+        <a class="nav-link fw-bold py-1 px-0" href="login.html" id="log">Login</a>
       
       </nav>
     </div>
   </header>
 
   <form action="botao">
-    <label for="email">E-mail</label>
-    <input type="email" placeholder="Digite seu e-mail" autofocus="true" />
-    <label for="password">Senha</label>
-    <input type="password" placeholder="Digite seu e-mail" />
-    <a href="/">Esqueci minha senha</a>
-    <input type="submit" value="Acessar" class="btn" />
+    
+    <input type="email" placeholder="Email" autofocus="true" id="escrita1" />
+
+    <input type="password" placeholder="Senha" id="escrita2" />
+    <button>Logar</button>
+    <a href="/" id="telacad">Não tenho conta</a>
+    
 </form> 
   </form>
   
