@@ -158,8 +158,8 @@
     <div>
       <h3 class="float-md-start mb-0">Inicio</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Inicio</a>
-        <a class="nav-link fw-bold py-1 px-0" href="#">Cadastre-se</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php">Inicio</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cadastro.html">Cadastre-se</a>
         <a class="nav-link fw-bold py-1 px-0" href="login.html">Login</a>
       
       </nav>
