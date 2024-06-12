@@ -24,8 +24,8 @@
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php" id="ini">Inicio</a>
         <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php" id="ini">Inicio</a>
-        <a class="nav-link fw-bold py-1 px-0" href="#" id="cad">Cadastre-se</a><br>
-        <a class="nav-link fw-bold py-1 px-0" href="login.html" id="log">Login</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php" id="cad">Cadastre-se</a><br>
+        <a class="nav-link fw-bold py-1 px-0" href="login.php" id="log">Login</a>
       
       </nav>
     </div>
@@ -38,7 +38,7 @@
     <input type="password" placeholder="Crie sua senha" id="senha1" />
     <input type="password" placeholder="Confirme sua senha" id="senha2">
     <button>Logar</button>
-    <a href="login.html" id="telacad">Já possuo conta</a>
+    <a href="login.php" id="telacad">Já possuo conta</a>
     
 </form> 
   </form>

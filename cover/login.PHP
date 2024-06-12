@@ -23,8 +23,8 @@
       <h3 class="float-md-start mb-0" id="logine">Login</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php" id="ini">Inicio</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cadastro.html" id="cad">Cadastre-se</a>
-        <a class="nav-link fw-bold py-1 px-0" href="login.html" id="log">Login</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php" id="cad">Cadastre-se</a>
+        <a class="nav-link fw-bold py-1 px-0" href="login.php" id="log">Login</a>
       
       </nav>
     </div>
@@ -36,7 +36,7 @@
 
     <input type="password" placeholder="Senha" id="escrita2" />
     <button>Logar</button>
-    <a href="cadastro.html" id="telacad">Não tenho conta</a>
+    <a href="cadastro.php" id="telacad">Não tenho conta</a>
     
 </form> 
   </form>
